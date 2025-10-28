@@ -1,4 +1,10 @@
-<img src="https://media.giphy.com/media/3oKIPnAiaMCQRapwJ2/giphy.gif" alt="Pacman Game" width="150">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varizibabang/varizibabang/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varizibabang/varizibabang/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/varizibabang/varizibabang/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 # Hi there 👋
 
@@ -9,7 +15,7 @@ Welcome to my GitHub profile! I'm an **Informatics Student** passionate about te
 
 ---
 
-### � Education
+### 🎓 Education
 - **Major**: Informatics
 - **Status**: Student
 
@@ -17,18 +23,18 @@ Welcome to my GitHub profile! I'm an **Informatics Student** passionate about te
 
 ### 🎮 Hobbies
 - Gaming
+- reading comics
 
 ---
 
-### 📫 How to Reach Me
+### 📱 How to Reach Me
 Feel free to connect with me through:
 - GitHub: [@varizibabang](https://github.com/varizibabang)
-- Open to collaborations and discussions!
 
 ---
 
-### ✨ Fun Facts
+### ⭐ Fun Facts
 - Gamer and coder
-- Love building meaningful projects
+- Beginner
 
 Thanks for visiting my profile! 😄
