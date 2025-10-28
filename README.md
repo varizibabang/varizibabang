@@ -1,16 +1,34 @@
-## Hi there 👋
+<img src="https://media.giphy.com/media/3oKIPnAiaMCQRapwJ2/giphy.gif" alt="Pacman Game" width="150">
 
-<!--
-**varizibabang/varizibabang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+## I'm Yosafat John T
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+Welcome to my GitHub profile! I'm an **Informatics Student** passionate about technology and programming. I love exploring new technologies and building creative projects.
+
+---
+
+### � Education
+- **Major**: Informatics
+- **Status**: Student
+
+---
+
+### 🎮 Hobbies
+- Gaming
+
+---
+
+### 📫 How to Reach Me
+Feel free to connect with me through:
+- GitHub: [@varizibabang](https://github.com/varizibabang)
+- Open to collaborations and discussions!
+
+---
+
+### ✨ Fun Facts
+- Gamer and coder
+- Love building meaningful projects
+
+Thanks for visiting my profile! 😄
