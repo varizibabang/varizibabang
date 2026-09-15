@@ -13,13 +13,13 @@
 ## I'm Yosafat John T
 
 ### About Me
-Welcome to my GitHub profile! I'm an **Informatics Student** passionate about technology and programming. I love exploring new technologies and building creative projects.
+Welcome to my GitHub profile! I'm an **Bachelor of Computer Science** passionate about technology and programming. I love exploring new technologies and building creative projects.
 
 ---
 
 ### 🎓 Education
-- **Major**: Informatics
-- **Status**: Student
+- **Major**: Bachelor of Computer Science
+- **Status**: Bachelor
 
 ---
 
@@ -37,6 +37,5 @@ Feel free to connect with me through:
 
 ### ⭐ Fun Facts
 - Gamer and coder
-- Beginner
 
 Thanks for visiting my profile! 😄
